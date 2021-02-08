@@ -1,0 +1,20 @@
+{
+  "short_name": "Octa test",
+  "name": "Octa test App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "main.css": "style.b0659d7dc4443867a6d9.css",
+  "main.js": "main.a1ac72b40112646be233.js",
+  "favicon.ico": "favicon.ico",
+  "images/style.scss": "images/not-found.png",
+  "index.html": "index.html"
+}
